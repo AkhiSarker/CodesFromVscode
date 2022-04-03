@@ -1,0 +1,17 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package chapter.pkg7;
+class StringDemo {
+    public static void main(String args[]) {
+        String strOb1 = "First String";
+        String strOb2 = "Second String";
+        String strOb3 = strOb1 + " and " + strOb2;
+        
+        System.out.println(strOb1);
+        System.out.println(strOb2);
+        System.out.println(strOb3);
+    }
+}

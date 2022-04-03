@@ -1,0 +1,15 @@
+Game:-
+Star Wars: Far Away From Home.
+Used: Java, Java Swing, Java AWT.
+|***************************** Please read the instructions carefully *****************************|
+
+Running the project:-
+Please run this project from any code editor or Terminal (e.g. Windows Power Shell).
+
+How to play:-
+1. Press Right and Left Arrow Key to move your ship.
+2. Press SPACE to fire.
+
+Project developed by:-
+1. Pritom Paul (200103020063)
+2. Akhi Sarker (200103020017)
